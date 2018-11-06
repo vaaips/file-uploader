@@ -7,7 +7,7 @@
 }
 
 .secondary {
-  color: #ddd;
+  color: #9a9a9a;
 }
 
 body {
@@ -42,7 +42,7 @@ body {
 
 form p{
   text-align: center;
-  color: #ddd;
+  color: #9a9a9a;
   font-family: Arial;
   margin: 0;
 }
